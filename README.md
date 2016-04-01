@@ -1,2 +1,3 @@
-# Lincs_notes
+# Code4Lincs
+
 Notas sobre el funcionamiento del LINCS
